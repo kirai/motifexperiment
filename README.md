@@ -5,6 +5,7 @@
 
 - MEME, based on Expectation Maximization: https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation
   - MEME Suite: http://meme-suite.org/
+- Extreme: https://github.com/uci-cbcl/EXTREME
 - HOMER Motif Analysis
   - Perl code.
   - http://homer.ucsd.edu/homer/motif/
