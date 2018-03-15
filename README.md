@@ -50,4 +50,8 @@
 -  https://prosite.expasy.org/
 -Protein data bank motifs https://www.rcsb.org/pdb/staticHelp.do?p=help/advancedsearch/sequenceMotif.html
  
+ ## Cool educational info about MOTIFs
  
+- DNA Motif Finding 2010 https://www.slideshare.net/Stewbacca/dna-motif-finding-2010
+
+
