@@ -52,6 +52,8 @@
  
  ## Cool educational info about MOTIFs
  
-- DNA Motif Finding 2010 https://www.slideshare.net/Stewbacca/dna-motif-finding-2010
+- DNA Motif Finding 2010: https://www.slideshare.net/Stewbacca/dna-motif-finding-2010
+- Motif-based analysis of ChIP-seq data: https://www.slideshare.net/AustralianBioinformatics/motifbased-analysis-of
+- Motif and pattern database: https://www.slideshare.net/tsucheta/motif-andpatterndatabase
 
 
