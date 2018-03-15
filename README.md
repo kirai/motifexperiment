@@ -50,6 +50,11 @@
 -  https://prosite.expasy.org/
 -Protein data bank motifs https://www.rcsb.org/pdb/staticHelp.do?p=help/advancedsearch/sequenceMotif.html
  
+ ## Algorithms and papers
+ 
+ - A generic motif discovery algorithm for sequential data https://github.com/kljensen/Gemoda
+
+ 
  ## Cool educational info about MOTIFs
  
 - DNA Motif Finding 2010: https://www.slideshare.net/Stewbacca/dna-motif-finding-2010
