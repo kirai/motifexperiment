@@ -62,3 +62,10 @@
 - Motif and pattern database: https://www.slideshare.net/tsucheta/motif-andpatterndatabase
 
 
+ ## Como hacer rular EXTREME en localhost
+-  sudo pip install cython
+-  cd src
+- python setup.py build_ext --inplace
+- PETA! memewrapper.c:566:10: fatal error: 'numpy/arrayobject.h' file not found
+
+
