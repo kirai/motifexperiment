@@ -3,17 +3,16 @@
 
 ## Motif analysis and discovery software
 
-### MEME
+- MEME
   - MEME Suite: http://meme-suite.org/
   - Based on Expectation Maximization: https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation
-### Extreme: https://github.com/uci-cbcl/EXTREME
-### HOMER
+- Extreme: https://github.com/uci-cbcl/EXTREME
+- HOMER
   - Perl code http://homer.ucsd.edu/homer/motif/
-### Omics PNL:
+- Omics PNL:
   - Windows command line software for Protein Sequence Motif Extraction:
   - https://omics.pnl.gov/software/protein-sequence-motif-extractor
-
-### Online tools:
+- Online tools:
   - Genome JP: http://www.genome.jp/tools/motif/
   - Scan Prosite: https://prosite.expasy.org/scanprosite/
     - It supports Uniprot accesions: https://www.uniprot.org/
