@@ -60,6 +60,7 @@
 - DNA Motif Finding 2010: https://www.slideshare.net/Stewbacca/dna-motif-finding-2010
 - Motif-based analysis of ChIP-seq data: https://www.slideshare.net/AustralianBioinformatics/motifbased-analysis-of
 - Motif and pattern database: https://www.slideshare.net/tsucheta/motif-andpatterndatabase
+- A generic motif discovery algorithm for diverse molecular data: https://www.slideshare.net/kljensen/gemoda
 
 
  ## Como hacer rular EXTREME en localhost
