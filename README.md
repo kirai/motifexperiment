@@ -1,25 +1,26 @@
 # motifexperiment
 
 
-## Motif discovery algorithms and data available for download
+## Motif analysis and discovery software
 
-- MEME, based on Expectation Maximization: https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation
+### MEME
   - MEME Suite: http://meme-suite.org/
-- Extreme: https://github.com/uci-cbcl/EXTREME
-- HOMER Motif Analysis
-  - Perl code.
-  - http://homer.ucsd.edu/homer/motif/
-- Windows command line software for Protein Sequence Motif Extraction:
+  - Based on Expectation Maximization: https://en.wikipedia.org/wiki/Multiple_EM_for_Motif_Elicitation
+### Extreme: https://github.com/uci-cbcl/EXTREME
+### HOMER
+  - Perl code http://homer.ucsd.edu/homer/motif/
+### Omics PNL:
+  - Windows command line software for Protein Sequence Motif Extraction:
   - https://omics.pnl.gov/software/protein-sequence-motif-extractor
-- Online tools:
+
+### Online tools:
   - Genome JP: http://www.genome.jp/tools/motif/
   - Scan Prosite: https://prosite.expasy.org/scanprosite/
     - It supports Uniprot accesions: https://www.uniprot.org/
    - My hits https://myhits.isb-sib.ch/cgi-bin/motif_scan#prf:UBIQUITIN_2
-   - ELM http://elm.eu.org/
+   - ELM http://elm.eu.org/  
    
-   
-## Motif databases: 
+## Motif data: 
   - This seems to be the main resource: http://meme-suite.org/db/motifs
   - Is there a way to download them?
     - Maybe from here: http://jaspar.genereg.net/downloads/
